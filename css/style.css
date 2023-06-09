@@ -1,0 +1,20 @@
+.Portada{
+background-image: url(../img/banner-2.jpg);
+background-size: auto;
+text-align: center;
+padding: 250px;
+display: flex;
+flex-direction: column;
+    
+}
+.column1 {
+    width: 30%;
+    float: left;
+  }
+  
+  .column2 {
+    width: 40%;
+    float: left;
+  }
+    
+
